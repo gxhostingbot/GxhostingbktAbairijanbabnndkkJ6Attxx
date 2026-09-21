@@ -1,1 +1,1 @@
-web: python gxprivetbot.py
+web: python main.py
